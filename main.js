@@ -17,7 +17,7 @@ btn.addEventListener('click', function(event){
     divas.style.backgroundColor = spalvos;
     konteineris.appendChild(divas);
 
-
+// lalalalalalallalal
     // divas.innerHtml;
 //    konteineris.innerHTML;
 // var mygtukas = document.getElementsByClassName('konteineris');
